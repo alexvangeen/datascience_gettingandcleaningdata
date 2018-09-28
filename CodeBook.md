@@ -86,5 +86,6 @@ The following transformations were applied to the source data:
 * The training and test sets were merged
 * I extracted means and standard deviations for all measurements 
 * Activities were labeled with descriptive names
+* Variables in data set were labeled with descriptive variable names.
 * final datast (tidy_data.text) was created with for each activity and subject combo (row) the average for each variable
 These transformations were exectuted by the script run_analysis.R, see also README.md
