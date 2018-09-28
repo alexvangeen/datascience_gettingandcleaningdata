@@ -81,7 +81,7 @@ average of the frequency components of the frequency-domain magnitude of body an
 * fBodyBodyGyroJerkMag-mean(), fBodyBodyGyroJerkMag-std(), fBodyBodyGyroJerkMag-meanFreq() are the average, standard deviation,
 and weighted average of the frequency components of the frequency-domain magnitude of body angular velocity jerk (derivation of
 the angular velocity in time)
-##Transformations
+## Transformations
 The following transformations were applied to the source data:
 * The training and test sets were merged
 * I extracted means and standard deviations for all measurements 
